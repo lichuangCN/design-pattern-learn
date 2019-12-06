@@ -76,3 +76,8 @@
 15、迭代器模式（iterator）
 16、观察者模式（observer）
 17、中介者模式（mediator）
+18、备忘录模式（memento）
+19、状态模式（state）
+20、策略模式（strategy）
+21、解释器模式（interpreter）
+22、职责链模式（chain of responsibility）
