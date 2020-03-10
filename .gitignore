@@ -3,4 +3,4 @@ target/
 
 #IDEA
 .idea
-design-models.iml
+*.iml
